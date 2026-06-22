@@ -146,14 +146,4 @@ streamlit run main.py
 
 ---
 
-## 👨‍💻 Author
 
-Ashutosh Joshi
-
-Computer Science Student | Machine Learning Enthusiast | AI Developer
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a star on GitHub.
